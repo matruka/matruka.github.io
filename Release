@@ -1,0 +1,8 @@
+Origin: matruka's Repo
+Label: matruka
+Suite: stable
+Version: 1.0
+Codename: matruka
+Architecture: iphoneos-arm
+Components: main
+Description: my releases
