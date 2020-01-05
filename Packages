@@ -4,10 +4,10 @@ Maintainer: Matruka
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debs/SkeuoBadges.deb
-Size: 98014
-MD5sum: e265453aca5587eda0456efee9ea43c6
-SHA1: 74e72817fe7b6c2ccd0573856a59f4e062f5549c
-SHA256: f9a3d2eac0d4b220f8dee5c3a2789f0c3b51385307b0f62377e5f9fd20303279
+Size: 95636
+MD5sum: 6d5dbcf029d3e512490d50bd76b35808
+SHA1: 2c4d379e49a1ccb0853144c46a9f385a3828c09f
+SHA256: 14ef758dee110007a1c7b948224cb0f17791963990aa6ecabcbbb1342809b89b
 Description: Skeuo13 Badges
 Name: Skeuo13 Badges
 Author: Matruka
