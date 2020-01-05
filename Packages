@@ -3,7 +3,6 @@ Section: Themes
 Maintainer: Matruka
 Architecture: iphoneos-arm
 Version: 1.0
-Depends: mobilesubstrate
 Filename: /debs/SkeuoBadges.deb
 Size: 95770
 MD5sum: 930694defbfbbd23def6e42199816021
