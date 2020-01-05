@@ -1,4 +1,4 @@
-# matruka repository
+# ![Alt text](/CydiaIcon.png) matruka repository
 
 Add to Cydia
 ```
