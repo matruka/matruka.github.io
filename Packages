@@ -1,0 +1,11 @@
+Package: com.matruka.skeuo13.badges
+Section: Themes
+Maintainer: Matruka
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: /debs/SkeuoBadges.deb
+Size: 97976
+Description: Skeuo13 Badges
+Name: Skeuo13 Badges
+Author: Matruka
