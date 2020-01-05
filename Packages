@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate
 Filename: /debs/SkeuoBadges.deb
-Size: 97976
+Size: 95744
 MD5sum: 1b30d0f9ffee7621cca75e08a2831afc
 SHA1: eaacec25e375e38b1115a69740eed16de9dfb029
 SHA256: d8d2e2c6fb1a4483a19d52b57cd2012e9ffec6f15c6f1cffd533af23f513855a
