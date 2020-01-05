@@ -6,6 +6,9 @@ Version: 1.0
 Depends: mobilesubstrate
 Filename: /debs/SkeuoBadges.deb
 Size: 97976
+MD5sum: f6e4e70f8cef03fadd11efe71b7fea41
+SHA1: cc3f24f47d74234f5a7160471641504d621254e2
+SHA256: f83e4dbffc2a15e2ba7c0daae6561494058ee6e921048283c79bc9007486bca7
 Description: Skeuo13 Badges
 Name: Skeuo13 Badges
 Author: Matruka
