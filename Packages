@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-repo.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-repo.png
-Size: 262912
+Size: 264810
 MD5sum: 8e3bc97d5a7201b0cb7238537d4fb941
 SHA1: 4c04c162cbbb19d4c2d460e50fd18cc4787023ea
 SHA256: 53f7f250ba6fb735da76f7f2d08493abd40bc84a1c540f4189cf73e376a5ba37
