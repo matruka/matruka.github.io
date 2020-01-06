@@ -4,6 +4,7 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: v1.0
 Filename: /debians/com.matruka.skeuo-badge.deb
+Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-badge.png
 Size: 50824
 MD5sum: 1cc9fb013804c9dc95d5a923008bb15f
 SHA1: d85b576b435d3ebd6f0c0d015e48b1ea85689758
