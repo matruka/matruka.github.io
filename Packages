@@ -19,11 +19,11 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: v1.0
 Filename: /debians/com.matruka.skeuo-repo.deb
-Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-repo.png
-Size: 209544
-MD5sum: e89dbbf9e16783603e6dcfffc9f8ca29
-SHA1: ad6508c624ef2762c34895f765ae4b35cdd1ad9c
-SHA256: 103ec6493abc05929e33fb7731899afcbd02b660625b52614f9db2630d13c430
+Icon: file:///Library/com.matruka.skeuo-repo.png
+Size: 266314
+MD5sum: 54999e74a3a77671d1c2d93561a4ba9c
+SHA1: d9d1b2e85f6aafd80a6949a0373c3ff9c4ff3f14
+SHA256: 2abca5f2e5936ac72c0e47f11de2fde64868d1a1890f9174c63cbdd15c05718a
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Author: matruka
