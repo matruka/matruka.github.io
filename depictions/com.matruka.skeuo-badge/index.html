@@ -1,9 +1,43 @@
 <body class="depiction">
-  <header>
-    <h1>Cydia Package</h1>
-      
-    <style>
-     iframe {
+  <main id="content" role="main">
+    <ul>
+      <li>
+        This is a depiction of a cydia package. The URL of this page should be set as the "Depiction" element of the <code>DEBIAN/control</code> file, and it contains more information than the regular "Description" entry. There's info on package maintainence, settings, &amp;c.
+      </li>
+      <li>
+        This is another bit of information, split by the line above. This may be trivial information or integral to the package's instructions.
+      </li>
+    </ul>
+    <ul id="cydia-open">
+      <li>
+        <a href="cydia://package/XXX" class="button">View in Cydia</a>
+      </li>
+    </ul>
+    <h2 id="in-this-version">In this version</h2>
+    <ul>
+      <li>
+        First release!
+      </li>
+      <li>
+        More changes!
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="" role="button">Changelog</a>
+      </li>
+    </ul>
+    <h2 id="known-issues">Known&nbsp;Issues</h2>
+    <ul>
+      <li>No current issues.</li>
+    </ul>
+    <p class="footer">made by matruka</p>
+  </main>
+</body>
+
+
+<style>
+iframe {
   border:0
 }
 
@@ -13,7 +47,7 @@ a,button {
 }
 
 html {
-  background:#efeff4
+  background:#f2f2f7
 }
 
 html .depiction {
@@ -21,8 +55,8 @@ html .depiction {
 }
 
 body {
-  font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
-  margin:80px 0 35px
+  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  margin:30px 0 30px
 }
 
 .cydia body {
@@ -50,7 +84,7 @@ body {
 body>p,h2,header .date,p[class="footer"] {
   margin:15px;
   color:#6d6d72;
-  font-size:14px;
+  font-size:14.5px;
   font-weight:400
 }
 
@@ -107,7 +141,7 @@ body>header h1 {
 }
 
 ul {
-  margin:5px 0 35px;
+  margin:5px 0 30px;
   padding:0;
   list-style:none;
   background:#fff
@@ -116,7 +150,7 @@ ul {
 ul:after,ul:before {
   content:"";
   display:block;
-  height:1px;
+  height:0.5px;
   background:#c8c7cc
 }
 
@@ -127,7 +161,7 @@ ul:after,ul:before {
 }
 
 ul li {
-  border-bottom:1px solid #c8c7cc;
+  border-bottom:0.5px solid #c8c7cc;
   margin-left:15px;
   padding:13px 15px 13px 0
 }
@@ -243,45 +277,5 @@ footer :last-child {
   margin-left:0;
   margin-right:0
 }
-}  
-    </style>
-      
-      
-      
-      
-  </header>
-  <main id="content" role="main">
-    <ul>
-      <li>
-        This is a depiction of a cydia package. The URL of this page should be set as the "Depiction" element of the <code>DEBIAN/control</code> file, and it contains more information than the regular "Description" entry. There's info on package maintainence, settings, &amp;c.
-      </li>
-      <li>
-        This is another bit of information, split by the line above. This may be trivial information or integral to the package's instructions.
-      </li>
-    </ul>
-    <ul id="cydia-open">
-      <li>
-        <a href="cydia://package/XXX" class="button">View in Cydia</a>
-      </li>
-    </ul>
-    <h2 id="in-this-version">In this version</h2>
-    <ul>
-      <li>
-        First release!
-      </li>
-      <li>
-        More changes!
-      </li>
-    </ul>
-    <ul>
-      <li>
-        <a href="" role="button">Changelog</a>
-      </li>
-    </ul>
-    <h2 id="known-issues">Known&nbsp;Issues</h2>
-    <ul>
-      <li>No current issues.</li>
-    </ul>
-    <p class="footer">Report issues to /u/Travis-g</p>
-  </main>
-</body>
+}
+</style>
