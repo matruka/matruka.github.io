@@ -1,23 +1,15 @@
 <package>
-	<id>com.decimation.chargedup</id>
-	<name>Full Package</name>
-	<version>1.0</version>
+	<id>com.matruka.skeuo-badge</id>
+	<name>skeuo13 Badge</name>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-		<package>com.unlimapps.toneenabler</package>
-	</dependencies>
 	<descriptionlist>
-		<description>Apparently this doesn't show up in Activator's ringtones, but it'll live here for now...</description>
-		<description>Drake "Charged up" ringtone. To use this tone when your battery reaches 99-100%:</description>
-		<description>1. Open Activator</description>
-		<description>2. Go to Anywhere, then tap "More"</description>
-		<description>3. Choose Battery Charges, choose 99%</description>
-		<description>4. Choose your new action, then search</description>
+		<description>Badge Theme for skeuo13 to use with Snowboard.</description>
+        <description>Sample Text.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -30,13 +22,8 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/_Decimation</url>
-		</link>
-		
-		<link>
 			<name>Twitter</name>
-			<url>https://twitter.com/dec1mati0n</url>
+			<url>https://twitter.com/matrukaios</url>
 		</link>
 	</links>
 </package>
