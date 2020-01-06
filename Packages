@@ -2,13 +2,13 @@ Package: com.matruka.skeuo-badge
 Section: skeuo13-badge
 Maintainer: matruka
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.0
 Filename: /debians/com.matruka.skeuo-badge.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-badge.png
-Size: 52532
-MD5sum: 2e7bcc31fbc6e3f9ae13cc9f735fcdb0
-SHA1: 275f422cef7fbd51dbe8c9bc8cb129d614b84934
-SHA256: a126aa0b0301ea818d11c5558239c0001faa389774f43291a5b0f8eb41e1707d
+Size: 50762
+MD5sum: 59105da4f176fdb41abcadc0baf78cc0
+SHA1: 758367b8aeab8e941a32202342c4835844f77310
+SHA256: 4206db54f8f8fbf7400ff252ca8e0980ed95a2ed46791732dce8d747218e5b12
 Description: Badge Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Badge
 Depends: firmware (>= 10.0)
