@@ -1,14 +1,29 @@
 Package: com.matruka.skeuo-badge
-Section: skeuo13
+Section: skeuo13-badge
 Maintainer: matruka
 Architecture: iphoneos-arm
 Version: v1.0
 Filename: /debians/com.matruka.skeuo-badge.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-badge.png
 Size: 50824
-MD5sum: 1cc9fb013804c9dc95d5a923008bb15f
-SHA1: d85b576b435d3ebd6f0c0d015e48b1ea85689758
-SHA256: 22d5f7d0814d9bfdb1d0367985a66ab2df0871a8c02e40ab22ce41a1f354619c
+MD5sum: 7a1455bda429002986b7b4a33477a90a
+SHA1: cf0c37a34d7f487f75211b03b47f04fae8aa2aa3
+SHA256: 8ffd5f3ebf8742495350a441c48ef8485cb2a37661acc2009fc8ff243003abb2
 Description: Badge Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Badge
+Author: matruka
+
+Package: com.matruka.skeuo-repo
+Section: skeuo13-repo
+Maintainer: matruka
+Architecture: iphoneos-arm
+Version: v1.0
+Filename: /debians/com.matruka.skeuo-repo.deb
+Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-repo.png
+Size: 209544
+MD5sum: e89dbbf9e16783603e6dcfffc9f8ca29
+SHA1: ad6508c624ef2762c34895f765ae4b35cdd1ad9c
+SHA256: 103ec6493abc05929e33fb7731899afcbd02b660625b52614f9db2630d13c430
+Description: Repo essentials for displaying section icons in Cydia.
+Name: skeuo13 Repo
 Author: matruka
