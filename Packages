@@ -25,6 +25,7 @@ MD5sum: 1898d5a64ff27cf1c719b5b4a5bcd30b
 SHA1: 3898d0452d3308ba14babd04029c1745758569c0
 SHA256: 2bf1c909397d5fbe58eb93a636d4e67e25e7bd260002444b912a348027f8ff46
 Description: Repo essentials for displaying section icons in Cydia.
-Priority: important
+Priority: important, required
+Essential: yes
 Name: skeuo13 Repo
 Author: matruka
