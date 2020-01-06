@@ -13,7 +13,7 @@ Description: Badge Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Badge
 Depends: firmware (>= 10.0)
 Author: matruka
-Depiction: https://raw.githubusercontent.com/matruka/matruka.github.io/master/depictions/com.matruka.skeuo-badge/info.xml
+Depiction: https://matruka.github.io/depictions/index.html?p=com.matruka.skeuo-badge
 
 Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
