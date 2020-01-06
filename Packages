@@ -2,7 +2,7 @@ Package: com.matruka.skeuo-badge
 Section: skeuo13-badge
 Maintainer: matruka
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Filename: /debians/com.matruka.skeuo-badge.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-badge.png
 Size: 50762
