@@ -19,16 +19,32 @@ Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
 Maintainer: matruka
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Filename: /debians/com.matruka.skeuo-repo.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-repo.png
-Size: 213122
-MD5sum: 2bfc7d5141e14d5837a6e2e22d96abc9
-SHA1: 4acfda2f4531be6728dec822599c768a1c057203
-SHA256: 51805f2928fc198bb45eb116ea2070159fa435cf51e95e472b1378be975a4ac2
+Size: 340182
+MD5sum: 98fb06853d14f69ab38a42762e00f930
+SHA1: db0f2b43a157b7f0a88dcaa1fe2a55f5627f8852
+SHA256: 009a235dba3fbe69ef1fd03ae6724866fd363468e9264650211159b59f9f22c3
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
 Author: matruka
 Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-repo/index.html
 
+Package: com.matruka.skeuo-dock
+Section: skeuo13-dock
+Maintainer: matruka
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-dock.deb
+Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-dock.png
+Size: 151410
+MD5sum: 089b8e3f971dde706efeee35b98d8f7d
+SHA1: 2da53619f984ce40ed720c1fad6eb11b239c14b1
+SHA256: ba256903e5f54a1f49f1041cb0e79c6114084079b117ff2ac645e2b8b0f230bf
+Description: Dock Theme for skeuo13 to use with Snowboard.
+Name: skeuo13 Dock
+Depends: firmware (>= 10.0)
+Author: matruka
+Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-dock/index.html
