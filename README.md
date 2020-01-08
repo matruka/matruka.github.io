@@ -17,3 +17,5 @@ cydia://url/https://cydia.saurik.com/api/share#?source=https://matruka.github.io
 ```
 zbra://sources/add/https://matruka.github.io
 ```
+
+>matruka © Copyright 2020
