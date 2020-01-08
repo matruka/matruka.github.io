@@ -40,9 +40,9 @@ Version: 1.0
 Filename: /debians/com.matruka.skeuo-dock.deb
 Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-dock.png
 Size: 151410
-MD5sum: 089b8e3f971dde706efeee35b98d8f7d
-SHA1: 2da53619f984ce40ed720c1fad6eb11b239c14b1
-SHA256: ba256903e5f54a1f49f1041cb0e79c6114084079b117ff2ac645e2b8b0f230bf
+MD5sum: 61d6afa2354f4926e7f04f58e0d85850
+SHA1: e19d6922e530f70cd9eb6c4d99ce524070fbb53c
+SHA256: 0dd2e74f919a22d666969663ea89e9a9936492e3ae9bc9bc7ba6ccf611a3e311
 Description: Dock Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Dock
 Depends: firmware (>= 10.0)
