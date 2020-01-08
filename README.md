@@ -5,8 +5,8 @@
 
 **Description**
 
-Welcome to my repo. All of my packages will be uploaded here in the future.
-This repo is focused on iOS devices that run iOS 10.0 to 13.3.1.
+>Welcome to my repo. All of my packages will be uploaded here in the future.
+>This repo is focused on iOS devices that run iOS 10.0 to 13.3.1.
 
 **Add to Cydia**
 ```
