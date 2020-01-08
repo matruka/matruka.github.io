@@ -30,3 +30,5 @@ Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
 Author: matruka
+Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-repo/index.html
+
