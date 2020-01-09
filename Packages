@@ -48,3 +48,20 @@ Name: skeuo13 Dock
 Depends: firmware (>= 10.0)
 Author: matruka
 Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-dock/index.html
+
+Package: com.matruka.skeuo-pagedots
+Section: skeuo13-pagedots
+Maintainer: matruka
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-pagedots.deb
+Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-pagedots.png
+Size: 67378
+MD5sum: 446d024928bb6fd7a837f71ffe041dd0
+SHA1: e1c6b215c46e98bb3c6c7d3242c5616a53877475
+SHA256: 1b81a3979331d25f836a59311e6685fec33c2be9cc03a844d33e91210ee7518d
+Description: Page Dots Theme for skeuo13 to use with Snowboard.
+Name: skeuo13 Page Dots
+Depends: firmware (>= 10.0)
+Author: matruka
+Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-pagedots/index.html
