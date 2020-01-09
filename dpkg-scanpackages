@@ -210,7 +210,6 @@ $packages
 
 my (@samemaint,@changedmaint);
 
-
 my %overridden;
 my $override_fh = new IO::File $override,'r'
     or die sprintf(_g("Couldn't open override file %s: %s"), $override, $!)."\n";
