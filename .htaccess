@@ -4,3 +4,4 @@ RewriteBase https://matruka.me/
 RewriteRule ^(Release)$ release.php
 RewriteRule ^(Packages.*)$ package.php
 RewriteRule ^(Packages)$ package.php
+RewriteRule ^debs/(.*)\.deb$ release.php
