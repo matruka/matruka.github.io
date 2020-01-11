@@ -1,5 +1,5 @@
 # matruka repository 
-`https://matruka.github.io`
+`https://matruka.me`
 
 ![Alt text](/CydiaIcon.png) 
 
@@ -10,12 +10,12 @@
 
 **Add to Cydia**
 ```
-cydia://url/https://cydia.saurik.com/api/share#?source=https://matruka.github.io
+cydia://url/https://cydia.saurik.com/api/share#?source=https://matruka.me
 ```
 
 **Add to Zebra**
 ```
-zbra://sources/add/https://matruka.github.io
+zbra://sources/add/https://matruka.me
 ```
 
 >matruka © Copyright 2020
