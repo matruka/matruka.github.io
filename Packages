@@ -1,6 +1,6 @@
 Package: com.matruka.skeuo-badge
 Section: skeuo13-badge
-Maintainer: matruka
+Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
 Version: 1.0.1
 Filename: /debians/com.matruka.skeuo-badge.deb
@@ -12,12 +12,12 @@ SHA256: 4206db54f8f8fbf7400ff252ca8e0980ed95a2ed46791732dce8d747218e5b12
 Description: Badge Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Badge
 Depends: firmware (>= 10.0)
-Author: matruka
+Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-badge/index.html
 
 Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
-Maintainer: matruka
+Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
 Version: 1.0.2
 Filename: /debians/com.matruka.skeuo-repo.deb
@@ -29,12 +29,12 @@ SHA256: 227ea82a4d545215f4f9d4191953c8f9ad07464a691700d1f7545ac59cee88fd
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
-Author: matruka
+Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-repo/index.html
 
 Package: com.matruka.skeuo-dock
 Section: skeuo13-dock
-Maintainer: matruka
+Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-dock.deb
@@ -46,12 +46,12 @@ SHA256: 0dd2e74f919a22d666969663ea89e9a9936492e3ae9bc9bc7ba6ccf611a3e311
 Description: Dock Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Dock
 Depends: firmware (>= 10.0)
-Author: matruka
+Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-dock/index.html
 
 Package: com.matruka.skeuo-pagedots
 Section: skeuo13-pagedots
-Maintainer: matruka
+Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-pagedots.deb
@@ -63,5 +63,5 @@ SHA256: 1b81a3979331d25f836a59311e6685fec33c2be9cc03a844d33e91210ee7518d
 Description: Page Dots Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Page Dots
 Depends: firmware (>= 10.0)
-Author: matruka
+Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-pagedots/index.html
