@@ -4,7 +4,7 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: 1.0.1
 Filename: /debians/com.matruka.skeuo-badge.deb
-Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-badge.png
+Icon: https://matruka.me/icons/com.matruka.skeuo-badge.png
 Size: 50762
 MD5sum: 59105da4f176fdb41abcadc0baf78cc0
 SHA1: 758367b8aeab8e941a32202342c4835844f77310
@@ -13,7 +13,7 @@ Description: Badge Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Badge
 Depends: firmware (>= 10.0)
 Author: matruka
-Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-badge/index.html
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-badge/index.html
 
 Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
@@ -21,7 +21,7 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: 1.0.2
 Filename: /debians/com.matruka.skeuo-repo.deb
-Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-repo.png
+Icon: https://matruka.me/icons/com.matruka.skeuo-repo.png
 Size: 463886
 MD5sum: e24ad5b0457c1f9bfc50124cd2dc8116
 SHA1: 94ef9defc1eb4f14307411714767445b4398b7b3
@@ -30,7 +30,7 @@ Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
 Author: matruka
-Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-repo/index.html
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-repo/index.html
 
 Package: com.matruka.skeuo-dock
 Section: skeuo13-dock
@@ -38,7 +38,7 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-dock.deb
-Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-dock.png
+Icon: https://matruka.me/icons/com.matruka.skeuo-dock.png
 Size: 151410
 MD5sum: 61d6afa2354f4926e7f04f58e0d85850
 SHA1: e19d6922e530f70cd9eb6c4d99ce524070fbb53c
@@ -47,7 +47,7 @@ Description: Dock Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Dock
 Depends: firmware (>= 10.0)
 Author: matruka
-Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-dock/index.html
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-dock/index.html
 
 Package: com.matruka.skeuo-pagedots
 Section: skeuo13-pagedots
@@ -55,7 +55,7 @@ Maintainer: matruka
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-pagedots.deb
-Icon: https://raw.githubusercontent.com/matruka/matruka.github.io/master/icons/com.matruka.skeuo-pagedots.png
+Icon: https://matruka.me/icons/com.matruka.skeuo-pagedots.png
 Size: 67378
 MD5sum: 446d024928bb6fd7a837f71ffe041dd0
 SHA1: e1c6b215c46e98bb3c6c7d3242c5616a53877475
@@ -64,4 +64,4 @@ Description: Page Dots Theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Page Dots
 Depends: firmware (>= 10.0)
 Author: matruka
-Depiction: https://matruka.github.io/depictions/com.matruka.skeuo-pagedots/index.html
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-pagedots/index.html
