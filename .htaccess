@@ -1,5 +1,5 @@
 RewriteEngine On
 
-RewriteBase /
-RewriteRule ^(Release)$ Release.php
-RewriteRule ^(Packages.*)$ Package.php
+RewriteBase https://matruka.me/
+RewriteRule ^(Release)$ release.php
+RewriteRule ^(Packages.*)$ package.php
