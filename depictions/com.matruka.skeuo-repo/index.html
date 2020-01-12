@@ -58,13 +58,22 @@ This package is required to display the repo icons correctly in Cydia.
     </ul>
 
     
- <h2 id="known-issues">SUPPORT</h2>
+     <h2 id="known-issues">SUPPORT</h2>
         <ul id="cydia-open">
       <li>
-        <a href="https://twitter.com/matrukaios" class="button" target="_blank">Twitter</a>
+        <a href="https://paypal.me/matruka" class="buttonsupport" target="_blank"><span class="support">You want to support me? Buy me a coffee.</span></a>
+      </li>
+    </ul>
+    
+    
+    
+ <h2 id="known-issues">CONTACT</h2>
+        <ul id="cydia-open">
+      <li>
+        <a href="https://twitter.com/matrukaios" class="button" target="_blank"><span class="twitter">Twitter</span></a>
       </li>
                 <li>
-        <a href="mailto:contact@matruka.me" class="button">Mail</a>
+                  <a href="mailto:contact@matruka.me" class="button"><span class="mail">Mail</span></a>
       </li>
     </ul>
     
@@ -135,6 +144,8 @@ a,button {
   color:#007aff;
   text-decoration:none
 }
+
+
 html {
   background:#f2f2f7
 }
@@ -143,7 +154,7 @@ html .depiction {
 }
 body {
   font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
-  margin:18px 0 30px
+  margin:18px 0 25px
 }
 .cydia body {
   margin-top:35px
@@ -234,14 +245,14 @@ ul:after,ul:before {
 ul li {
   border-bottom:0.5px solid #c8c7cc;
   margin-left:15px;
-  padding:13px 15px 13px 0
+  padding:10px 15px 10px 0
 }
 ul li:last-child {
   border-bottom:0;
 }
 ul .button,ul li [role="link"],ul li p {
-  padding:13px 15px;
-  margin:-13px -15px
+  padding:10px 15px;
+  margin:-10px -15px
 }
 ul .button+p,ul li [role="link"]+p,ul li p+p {
   padding-top:0;
@@ -257,7 +268,7 @@ ul .button,ul li [role="link"] {
 ul .button:after,ul li [role="link"]:after {
   content:"";
   display:block;
-  background:url(https://matruka.me/arrow.svg) 0 0/100% 100%;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
   position:absolute;
   top:50%;
   right:15px;
@@ -344,5 +355,80 @@ footer :last-child {
 .leftrepo {
   position: relative;
   right: 5px;}
+
+
+
+
+ul .buttonsupport,ul li [role="link"],ul li p {
+  padding:10px 15px;
+  margin:-10px -15px;}
+
+
+ul .buttonsupport+p,ul li [role="link"]+p,ul li p+p {
+  padding-top:0;
+  margin-top:0
+}
+ul .buttonsupport,ul li [role="link"] {
+  display:block;
+  color: #eb4f25;
+  padding-right:30px;
+  position:relative;
+  z-index:2
+}
+ul .buttonsupport:after,ul li [role="link"]:after {
+  content:"";
+  display:block;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
+  position:absolute;
+  top:50%;
+  right:15px;
+  width:10px;
+  height:13px;
+  margin-top:-6.5px;
+}
+
+
+
+ul li>buttonsupport {
+  font:inherit;
+  width:100%;
+  text-align:left
+}
+
+.twitter
+{
+background-image: url('https://matruka.me/twitter.png');
+background-repeat: no-repeat;
+padding-left: 39px;  /* width of the image plus a little extra padding */
+  padding-top: 4px;
+display: block;  /* may not need this, but I've found I do */
+background-size: contain;
+      height: 25px; 
+    margin:-3px 0px -3px;
+}
+
+.mail
+{
+background-image: url('https://matruka.me/mail.png');
+background-repeat: no-repeat;
+padding-left: 39px;  /* width of the image plus a little extra padding */
+  padding-top: 4px;
+display: block;  /* may not need this, but I've found I do */
+background-size: contain;
+      height: 25px; 
+    margin:-3px 0px -3px;
+}
+
+.support
+{
+background-image: url('https://matruka.me/support.png');
+background-repeat: no-repeat;
+padding-left: 39px;  /* width of the image plus a little extra padding */
+  padding-top: 4px;
+display: block;  /* may not need this, but I've found I do */
+background-size: contain;
+      height: 25px; 
+    margin:-3px 0px -3px;
+}
 
 </style>
