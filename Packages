@@ -82,3 +82,20 @@ Name: skeuo13 Analog Clock
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-analogclock/index.html
+
+Package: com.matruka.skeuo-flipclock
+Section: skeuo13-flipclock
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-flipclock.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-flipclock.png
+Size: 55992
+MD5sum: f33c5b2ed8ca038c6ae9d0588a7fefaf
+SHA1: 7b7a1ba5ce790b28e3bec7cea52d4825ec63d84a
+SHA256: 67675828a0ad7b63ee697ac4e195bc10263871a63d7992a8f4dcbd38b88d81ce
+Description: Flip Clock icon for skeuo13 to use with Snowboard.
+Name: skeuo13 Flip Clock
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-flipclock/index.html
