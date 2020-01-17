@@ -65,3 +65,20 @@ Name: skeuo13 Page Dots
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-pagedots/index.html
+
+Package: com.matruka.skeuo-analogclock
+Section: skeuo13-analogclock
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-analogclock.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-analogclock.png
+Size: 77056
+MD5sum: f7c9948afd7ee6e4e318ff6329979a83
+SHA1: 45b1aabede840fb8b7072cabb74a7408ec4f76fa
+SHA256: 5c0f5a19f7076092235ffd5d29928946f3f887f2bd99f93d4215159822fae2c3
+Description: Analog Clock icon for skeuo13 to use with Snowboard.
+Name: skeuo13 Analog Clock
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-analogclock/index.html
