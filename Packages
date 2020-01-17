@@ -19,13 +19,13 @@ Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.0.2
+Version: 1.0.3
 Filename: /debians/com.matruka.skeuo-repo.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-repo.png
-Size: 463886
-MD5sum: e24ad5b0457c1f9bfc50124cd2dc8116
-SHA1: 94ef9defc1eb4f14307411714767445b4398b7b3
-SHA256: 227ea82a4d545215f4f9d4191953c8f9ad07464a691700d1f7545ac59cee88fd
+Size: 636616
+MD5sum: 804b35d25e7489208c4ff6142434037b
+SHA1: 8eed696ff1aeb3b9580f676e75e9bdb57becc946
+SHA256: 734ca574f69ea9db3d402e75e4975b383e991f486a5e4f8907e12a27c97e7107
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
@@ -73,10 +73,10 @@ Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-analogclock.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-analogclock.png
-Size: 77056
-MD5sum: f7c9948afd7ee6e4e318ff6329979a83
-SHA1: 45b1aabede840fb8b7072cabb74a7408ec4f76fa
-SHA256: 5c0f5a19f7076092235ffd5d29928946f3f887f2bd99f93d4215159822fae2c3
+Size: 76502
+MD5sum: 4de8b6776a67b4f6751af4716a70508f
+SHA1: 6a7ffcd20817eb25aca29694dd813035823063d3
+SHA256: de4451fe7ae353aaa4652eb2ce37ede997744438a9ef0461808e6d6288fedefb
 Description: Analog Clock icon for skeuo13 to use with Snowboard.
 Name: skeuo13 Analog Clock
 Depends: firmware (>= 10.0)
