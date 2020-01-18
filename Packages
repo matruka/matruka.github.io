@@ -19,13 +19,13 @@ Package: com.matruka.skeuo-repo
 Section: skeuo13-repo
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.0.3
+Version: 1.0.4
 Filename: /debians/com.matruka.skeuo-repo.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-repo.png
-Size: 636616
-MD5sum: 804b35d25e7489208c4ff6142434037b
-SHA1: 8eed696ff1aeb3b9580f676e75e9bdb57becc946
-SHA256: 734ca574f69ea9db3d402e75e4975b383e991f486a5e4f8907e12a27c97e7107
+Size: 750524
+MD5sum: 6d0d28f61c4c36b5adbf7a36759dfdca
+SHA1: 6074aaab2d0242d2d633f7519eaf2294b3b5fbbe
+SHA256: 8a90d5313db6f46f2bd1f9a489538546b35def58887e034f052597eb59ef9af5
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
@@ -99,3 +99,20 @@ Name: skeuo13 Flip Clock
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-flipclock/index.html
+
+Package: com.matruka.skeuo-folders
+Section: skeuo13-folders
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-folders.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-folders.png
+Size: 498706
+MD5sum: 4e62b9fecf7d7477118e91594e582ec7
+SHA1: c803b9f606812ccad29c677dcfd37cb8ad78c4e4
+SHA256: 58f11bda1a55bf374c07f9b6a045435f54342533b697451efaaa6cc281451dbf
+Description: Folder icon for skeuo13 to use with Snowboard.
+Name: skeuo13 Folders
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-folders/index.html
