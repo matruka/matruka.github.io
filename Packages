@@ -107,10 +107,10 @@ Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-folders.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-folders.png
-Size: 498706
-MD5sum: 4e62b9fecf7d7477118e91594e582ec7
-SHA1: c803b9f606812ccad29c677dcfd37cb8ad78c4e4
-SHA256: 58f11bda1a55bf374c07f9b6a045435f54342533b697451efaaa6cc281451dbf
+Size: 395710
+MD5sum: 28670c5aca1bb0d9843a811cee5f063c
+SHA1: 591fcd7e2cdb34d264c361540830a6494130e77c
+SHA256: 738afd162ed84eb4034e763ec9822e5e6997fe0fde56efb76ddedbfe04d759ce
 Description: Folder icon for skeuo13 to use with Snowboard.
 Name: skeuo13 Folders
 Depends: firmware (>= 10.0)
