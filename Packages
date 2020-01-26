@@ -92,10 +92,10 @@ Architecture: iphoneos-arm
 Version: 1.0
 Filename: /debians/com.matruka.skeuo-flipclock.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-flipclock.png
-Size: 55992
-MD5sum: f33c5b2ed8ca038c6ae9d0588a7fefaf
-SHA1: 7b7a1ba5ce790b28e3bec7cea52d4825ec63d84a
-SHA256: 67675828a0ad7b63ee697ac4e195bc10263871a63d7992a8f4dcbd38b88d81ce
+Size: 55828
+MD5sum: 126c9cc41ab818e63e2a935ef4864730
+SHA1: 8eb2e5131f054a5df86ab941b9f2c5b44eabda65
+SHA256: a53a7461a1cb91d988e69f557ae00f6cea3ae2077342da199daa09d090904c6e
 Description: Flip Clock icon for skeuo13 to use with Snowboard.
 Name: skeuo13 Flip Clock
 Depends: firmware (>= 10.0)
