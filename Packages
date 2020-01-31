@@ -118,3 +118,20 @@ Name: skeuo13 Folders
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-folders/index.html
+
+Package: com.matruka.skeuo-settings
+Section: skeuo13-settings
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-settings.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-settings.png
+Size: 495242
+MD5sum: e1e1609b573d93af9fbedfdc30a74d6c
+SHA1: af81bba583c080e49d21b6f58c50a56208306949
+SHA256: 2daeb650cad5acd6a1b0155d8b32ee54b5e21004e717480188bec498da0331ba
+Description: Settings icons for skeuo13 to use with Snowboard.
+Name: skeuo13 Settings
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-settings/index.html
