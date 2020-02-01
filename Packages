@@ -169,3 +169,20 @@ Name: skeuo13 Alt Icons I
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-alticons1/index.html
+
+Package: com.matruka.skeuo-alticons2
+Section: skeuo13-alticons2
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-alticons2.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-alticons2.png
+Size: 76460
+MD5sum: 31ffcda11b1cb6449a55b454fe44ed20
+SHA1: e39d600d105e60c3462257c0ba4842f116d47f3e
+SHA256: 11df76489fefe7b8063a91a9e6d4f8e22e0fa8f3b8470c70e2b9e7b7144ee49d
+Description: Alternative Icons II for skeuo13 to use with Snowboard.
+Name: skeuo13 Alt Icons II
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-alticons2/index.html
