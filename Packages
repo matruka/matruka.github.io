@@ -135,3 +135,20 @@ Name: skeuo13 Settings
 Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-settings/index.html
+
+Package: com.matruka.skeuo-maintheme
+Section: skeuo13-maintheme
+Maintainer: matruka <contact@matruka.me>
+Architecture: iphoneos-arm
+Version: 1.0
+Filename: /debians/com.matruka.skeuo-maintheme.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-maintheme.png
+Size: 280724
+MD5sum: 1883c8d75fdce32c22d4a06cf3218d07
+SHA1: d688df821eed315b5985ea1fa320bf2bdd041982
+SHA256: 0a70e827959a4fbcabd4d6c0b172ee7a39bfc5788af9c0ed69d5f741c87d6952
+Description: Main theme for skeuo13 to use with Snowboard.
+Name: skeuo13 Main Theme
+Depends: firmware (>= 10.0)
+Author: matruka <contact@matruka.me>
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-maintheme/index.html
