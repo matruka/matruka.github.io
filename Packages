@@ -140,13 +140,13 @@ Package: com.matruka.skeuo-maintheme
 Section: skeuo13-maintheme
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Filename: /debians/com.matruka.skeuo-maintheme.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-maintheme.png
-Size: 280724
-MD5sum: 1883c8d75fdce32c22d4a06cf3218d07
-SHA1: d688df821eed315b5985ea1fa320bf2bdd041982
-SHA256: 0a70e827959a4fbcabd4d6c0b172ee7a39bfc5788af9c0ed69d5f741c87d6952
+Size: 473724
+MD5sum: 75038e9f34d66030d9294e65a484f2d5
+SHA1: 7dfadb0509e112dc8c59e8a6abf8ed550c4a2263
+SHA256: c4278c8bb610587402790a04b55f51013e08e33f41f6fd62c63e62dfca716445
 Description: Main theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Main Theme
 Depends: firmware (>= 10.0)
@@ -157,13 +157,13 @@ Package: com.matruka.skeuo-alticons1
 Section: skeuo13-alticons1
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Filename: /debians/com.matruka.skeuo-alticons1.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-alticons1.png
-Size: 170560
-MD5sum: 6191a4535ceb4fb7f49b9af1f3d45aea
-SHA1: 6a7247a4414db23945ecec560177449f51b3e836
-SHA256: 0ddb1e8b6f7a4f5b83a9ddf481ef931f4f002926ef0081f9d479bdc9a87516d5
+Size: 318330
+MD5sum: f94bb4c3b00af2aa20d571e537b7d808
+SHA1: 39d4dd374178a743e0dbccbbf3f1e632935d1545
+SHA256: 876f82b3601c3321bf202724e6f1693a2cb88a83e51961ad76ebc2e35958fdf9
 Description: Alternative Icons I for skeuo13 to use with Snowboard.
 Name: skeuo13 Alt Icons I
 Depends: firmware (>= 10.0)
