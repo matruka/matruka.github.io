@@ -21,13 +21,13 @@ Essential: yes
 Priority: extra
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 1.2.1
 Filename: /debians/com.matruka.skeuo-repo.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-repo.png
-Size: 1690462
-MD5sum: 76bfd5d82b28b5c3ef30e26223ae6386
-SHA1: 66f7c116bea40858f75934a647f728345ff24c0e
-SHA256: 64ee8575d013a976c64be226f1a5b08a7f2d90a0e77785235282a56d1ffc16d8
+Size: 1690454
+MD5sum: 7d02a43a14ce3c287bd2d866f131136f
+SHA1: db0f2e8b560778237cfa33ff7bf6501e187d8c5e
+SHA256: ae39c9cb5b56b58933ae35500181c72ee9c5bbcbaf10ce9639a083b5e3da6e86
 Description: Repo essentials for displaying section icons in Cydia.
 Name: skeuo13 Repo
 Depends: firmware (>= 10.0)
@@ -187,18 +187,18 @@ Depends: firmware (>= 10.0)
 Author: matruka <contact@matruka.me>
 Depiction: https://matruka.me/depictions/com.matruka.skeuo-alticons2/index.html
 
-Package: com.matruka.skeuo-outdated
-Section: skeuo-outdated
+Package: com.matruka.skeuo-original
+Section: skeuo-original
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
 Version: 1.3
-Filename: /debians/com.matruka.skeuo-outdated.deb
-Icon: https://matruka.me/icons/com.matruka.skeuo-outdated.png
-Size: 12117320
-MD5sum: 5b5354516ce9bb3c16c6ea9957931ce1
-SHA1: aeb3ec639a88ccf7ec72b24b1db3a4694a5b9562
-SHA256: 388364174e721c94a5cabe43921ae26353e36cf805f3c0f20bc2933ae49198e0
-Description: Old skeuo theme reuploaded. This package is outdated.
-Name: skeuo Theme (outdated)
+Filename: /debians/com.matruka.skeuo-original.deb
+Icon: https://matruka.me/icons/com.matruka.skeuo-original.png
+Size: 12117468
+MD5sum: 1d11088d4545c0a3f098784d1a5dca2f
+SHA1: 876a9399926f93f7cfd94436cc8abb47031d28df
+SHA256: 513840f075a5973d291be9531c350be219e12bdf1c382357dac7bc29e1e5fb72
+Description: Original skeuo theme reuploaded. This package is outdated.
+Name: skeuo Theme (Original)
 Author: matruka <contact@matruka.me>
-Depiction: https://matruka.me/depictions/com.matruka.skeuo-outdated/index.html
+Depiction: https://matruka.me/depictions/com.matruka.skeuo-original/index.html
