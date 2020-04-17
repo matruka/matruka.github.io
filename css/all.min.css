@@ -654,7 +654,13 @@ h1{
 }
 img.logo{
 	width:75px;
-	height:75px
+	height:75px;
+	user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
 }
 a.btn-matruka,a.btn-matruka:hover{
 	text-align:left;
@@ -685,25 +691,33 @@ a.btn-matruka,a.btn-matruka:hover{
 	margin-top:-3px
 }
 .btn-cydia{
-	background:#825341
+	background:#9a5941
 }
 .btn-zebra{
-	background:#2a2f33
+	background:#38434b
 }
 .btn-installer{
-	background:#2990ef
+	background:#2293fb
 }
 .btn-sileo{
-	background:#15b9b8
+	background:#12c0c0
 }
 .btn-github{
-	background:#9ca5ac
+	background:#8999a6
 }
 .btn-twitter{
-	background:#1da1f3
+	background:#23a9fd
 }
 .btn-donate{
-	background:#f65e5d
+	background:#fe504f
+}
+.nodrag{
+	user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
 }
 @media (min-width:992px){
 	#slider-packages .slick-list::before{
