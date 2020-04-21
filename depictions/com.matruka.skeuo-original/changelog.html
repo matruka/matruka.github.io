@@ -37,17 +37,17 @@
       </li>
               <li>
         <b><span class="versionnr">Version 1.2</span></b><br>
- • Finally fixed the paths (thanks to E-rwinn)
+ <span class="onlytext">Finally fixed the paths (thanks to E-rwinn)</span>
         <br><span class="released">Released 17. Feb 2017</span>
       </li>
               <li>
         <b><span class="versionnr">Version 1.1</span></b><br>
- • Fixed Zeppelin and iWidget paths
+ <span class="onlytext">Fixed Zeppelin and iWidget paths</span>
         <br><span class="released">Released 17. Feb 2017</span>
       </li>
               <li>
         <b><span class="versionnr">Version 1.0</span></b><br>
-• Initial release
+<span class="onlytext">Initial release</span>
         <br><span class="released">Released 16. Feb 2017</span>
       </li>
 
@@ -77,8 +77,12 @@
 
 
 
-
 <style>
+  .onlytext {
+    display: block;
+  margin-bottom: -17px;
+}
+  
 .badge {
     background-color: #f54444;
     border: 1.5px solid white;
@@ -113,9 +117,12 @@ vertical-align: top;
 }
 .versionnr {
   font-weight:600;
+  display: block;
+  margin-bottom: -18px;
 }
 iframe {
-  border:0
+  border:0;
+  
 }
 a,button {
   color:#007aff;
@@ -123,27 +130,22 @@ a,button {
 }
 
 
-html {
-  background:#f2f2f7
-}
+
 html .depiction {
-  background:0 0
+  background:0 0;
 }
-body {
-  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
-  margin:18px 0 25px
-}
+
 .cydia body {
-  margin-top:35px
+  margin-top:35px;
 }
 .depiction body {
   margin-top:0;
-  margin-bottom:0
+  margin-bottom:0;
 }
 @media (min-width:708px) {
 #content {
   width:708px;
-  margin:0 auto
+  margin:0 auto;
 }
 }
 @media (min-width:964px) {
@@ -151,13 +153,7 @@ body {
   width:964px
 }
 }
-body>p,h2,header .date,p[class="footer"] {
-  margin:15px;
-  color:#6d6d72;
-  font-size:13px;
-  font-weight:400;
-  letter-spacing: 0.08px;
-}
+
 @media (min-width:708px) {
 body>p,h2,p[class="footer"] {
   margin-left:0;
@@ -166,7 +162,7 @@ body>p,h2,p[class="footer"] {
 }
 h2,header .date {
   text-transform:uppercase;
-  margin-bottom:5px
+  margin-bottom:5px;
 }
 h2 a,h2 header .date,header h2 .date {
   color:inherit
@@ -176,7 +172,8 @@ h2 a:active,h2 a:focus,h2 a:hover,h2 header .date,header h2 .date {
 }
 hr {
   border:0;
-  border-top:1px solid #c8c7cc
+  border-top:1px solid #c8c7cc;
+  
 }
 body>header {
   position:fixed;
@@ -193,7 +190,8 @@ body>header h1 {
   text-align:center;
   font-size:18px;
   line-height:44px;
-  font-weight:500
+  font-weight:500;
+ 
 }
 .cydia body>header {
   display:none
@@ -201,58 +199,7 @@ body>header h1 {
 .cydia body>header+p {
   margin-top:-20px
 }
-ul {
-  margin:5px 0 25px;
-  padding:0;
-  list-style:none;
-  background:#fff
-}
-ul:after,ul:before {
-  content:"";
-  display:block;
-  border-style: solid;
-  border-width: 0.5px;
-  border-color: #c8c7cc;
-}
-@media (min-width:708px) {
-ul:after,ul:before {
-  display:none
-}
-}
-ul li {
-  border-bottom:0.5px solid #c8c7cc;
-  margin-left:15px;
-  padding:10px 15px 10px 0
-}
-ul li:last-child {
-  border-bottom:0;
-}
-ul .button,ul li [role="link"],ul li p {
-  padding:10px 15px;
-  margin:-10px -15px
-}
-ul .button+p,ul li [role="link"]+p,ul li p+p {
-  padding-top:0;
-  margin-top:0
-}
-ul .button,ul li [role="link"] {
-  display:block;
-  color:#007aff;
-  padding-right:30px;
-  position:relative;
-  z-index:2
-}
-ul .button:after,ul li [role="link"]:after {
-  content:"";
-  display:block;
-  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
-  position:absolute;
-  top:50%;
-  right:15px;
-  width:10px;
-  height:13px;
-  margin-top:-6.5px;
-}
+
 
 
 
@@ -329,9 +276,7 @@ footer :last-child {
 .tgicon .tg-icon2 {border-color:transparent;text-align:left;vertical-align:middle; padding-left: 12px; padding-bottom: 4px;   font-weight:600;}
 
 
-.leftrepo {
-  position: relative;
-  right: 5px;}
+
 
 
 
@@ -408,4 +353,158 @@ background-size: contain;
     margin:-3px 0px -3px;
 }
 
+  
+  
+
+  
+  
+  @media (prefers-color-scheme: dark) {
+html {
+  background:black
+}
+  body {
+  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  margin:18px 0 25px
+}
+  body>p,h2,header .date,p[class="footer"] {
+  margin:15px;
+  color: white;
+  font-size:13px;
+  font-weight:400;
+  letter-spacing: 0.08px;
+}
+  ul {
+  margin:5px 0 25px;
+  padding:0;
+  list-style:none;
+  background:#121212;
+    color: white;
+}
+ul:after,ul:before {
+  content:"";
+  display:block;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #363636;
+}
+@media (min-width:708px) {
+ul:after,ul:before {
+  display:none
+}
+}
+ul li {
+  border-bottom:0.5px solid #363636;
+  margin-left:15px;
+  padding:10px 15px 10px 0
+}
+ul li:last-child {
+  border-bottom:0;
+}
+ul .button,ul li [role="link"],ul li p {
+  padding:10px 15px;
+  margin:-10px -15px
+}
+ul .button+p,ul li [role="link"]+p,ul li p+p {
+  padding-top:0;
+  margin-top:0
+}
+ul .button,ul li [role="link"] {
+  display:block;
+  color:#007aff;
+  padding-right:30px;
+  position:relative;
+  z-index:2
+}
+ul .button:after,ul li [role="link"]:after {
+  content:"";
+  display:block;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
+  position:absolute;
+  top:50%;
+  right:15px;
+  width:10px;
+  height:13px;
+  margin-top:-6.5px;
+}
+      .leftrepo {
+  position: relative;
+  right: 5px;
+  color: white;}
+}
+
+
+
+
+@media (prefers-color-scheme: light) {
+html {
+  background:#f2f2f7
+}
+  body {
+  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  margin:18px 0 25px
+}
+  body>p,h2,header .date,p[class="footer"] {
+  margin:15px;
+  color:#6d6d72;
+  font-size:13px;
+  font-weight:400;
+  letter-spacing: 0.08px;
+}
+  ul {
+  margin:5px 0 25px;
+  padding:0;
+  list-style:none;
+  background:#fff;
+}
+ul:after,ul:before {
+  content:"";
+  display:block;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #c8c7cc;
+}
+@media (min-width:708px) {
+ul:after,ul:before {
+  display:none
+}
+}
+ul li {
+  border-bottom:0.5px solid #c8c7cc;
+  margin-left:15px;
+  padding:10px 15px 10px 0
+}
+ul li:last-child {
+  border-bottom:0;
+}
+ul .button,ul li [role="link"],ul li p {
+  padding:10px 15px;
+  margin:-10px -15px
+}
+ul .button+p,ul li [role="link"]+p,ul li p+p {
+  padding-top:0;
+  margin-top:0
+}
+ul .button,ul li [role="link"] {
+  display:block;
+  color:#007aff;
+  padding-right:30px;
+  position:relative;
+  z-index:2
+}
+ul .button:after,ul li [role="link"]:after {
+  content:"";
+  display:block;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
+  position:absolute;
+  top:50%;
+  right:15px;
+  width:10px;
+  height:13px;
+  margin-top:-6.5px;
+}
+  .leftrepo {
+  position: relative;
+  right: 5px;
+}
+}
 </style>

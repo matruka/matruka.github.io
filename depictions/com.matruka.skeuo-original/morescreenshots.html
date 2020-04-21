@@ -67,6 +67,7 @@
 
 
 
+
 <style>
 .badge {
     background-color: #f54444;
@@ -112,16 +113,10 @@ a,button {
 }
 
 
-html {
-  background:#f2f2f7
-}
 html .depiction {
   background:0 0
 }
-body {
-  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
-  margin:18px 0 25px
-}
+
 .cydia body {
   margin-top:35px
 }
@@ -140,13 +135,7 @@ body {
   width:964px
 }
 }
-body>p,h2,header .date,p[class="footer"] {
-  margin:15px;
-  color:#6d6d72;
-  font-size:13px;
-  font-weight:400;
-  letter-spacing: 0.08px;
-}
+
 @media (min-width:708px) {
 body>p,h2,p[class="footer"] {
   margin-left:0;
@@ -190,58 +179,9 @@ body>header h1 {
 .cydia body>header+p {
   margin-top:-20px
 }
-ul {
-  margin:5px 0 25px;
-  padding:0;
-  list-style:none;
-  background:#fff
-}
-ul:after,ul:before {
-  content:"";
-  display:block;
-  border-style: solid;
-  border-width: 0.5px;
-  border-color: #c8c7cc;
-}
-@media (min-width:708px) {
-ul:after,ul:before {
-  display:none
-}
-}
-ul li {
-  border-bottom:0.5px solid #c8c7cc;
-  margin-left:15px;
-  padding:10px 15px 10px 0
-}
-ul li:last-child {
-  border-bottom:0;
-}
-ul .button,ul li [role="link"],ul li p {
-  padding:10px 15px;
-  margin:-10px -15px
-}
-ul .button+p,ul li [role="link"]+p,ul li p+p {
-  padding-top:0;
-  margin-top:0
-}
-ul .button,ul li [role="link"] {
-  display:block;
-  color:#007aff;
-  padding-right:30px;
-  position:relative;
-  z-index:2
-}
-ul .button:after,ul li [role="link"]:after {
-  content:"";
-  display:block;
-  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
-  position:absolute;
-  top:50%;
-  right:15px;
-  width:10px;
-  height:13px;
-  margin-top:-6.5px;
-}
+
+
+
 
 
 
@@ -318,11 +258,6 @@ footer :last-child {
 .tgicon .tg-icon2 {border-color:transparent;text-align:left;vertical-align:middle; padding-left: 12px; padding-bottom: 4px;   font-weight:600;}
 
 
-.leftrepo {
-  position: relative;
-  right: 5px;}
-
-
 
 
 ul .buttonsupport,ul li [role="link"],ul li p {
@@ -397,4 +332,156 @@ background-size: contain;
     margin:-3px 0px -3px;
 }
 
+  
+    @media (prefers-color-scheme: dark) {
+html {
+  background:black
+}
+  body {
+  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  margin:18px 0 25px
+}
+  body>p,h2,header .date,p[class="footer"] {
+  margin:15px;
+  color: white;
+  font-size:13px;
+  font-weight:400;
+  letter-spacing: 0.08px;
+}
+  ul {
+  margin:5px 0 25px;
+  padding:0;
+  list-style:none;
+  background:#121212;
+    color: white;
+}
+ul:after,ul:before {
+  content:"";
+  display:block;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #363636;
+}
+@media (min-width:708px) {
+ul:after,ul:before {
+  display:none
+}
+}
+ul li {
+  border-bottom:0.5px solid #363636;
+  margin-left:15px;
+  padding:10px 15px 10px 0
+}
+ul li:last-child {
+  border-bottom:0;
+}
+ul .button,ul li [role="link"],ul li p {
+  padding:10px 15px;
+  margin:-10px -15px
+}
+ul .button+p,ul li [role="link"]+p,ul li p+p {
+  padding-top:0;
+  margin-top:0
+}
+ul .button,ul li [role="link"] {
+  display:block;
+  color:#007aff;
+  padding-right:30px;
+  position:relative;
+  z-index:2
+}
+ul .button:after,ul li [role="link"]:after {
+  content:"";
+  display:block;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
+  position:absolute;
+  top:50%;
+  right:15px;
+  width:10px;
+  height:13px;
+  margin-top:-6.5px;
+}
+      .leftrepo {
+  position: relative;
+  right: 5px;
+  color: white;}
+}
+
+
+
+
+@media (prefers-color-scheme: light) {
+html {
+  background:#f2f2f7
+}
+  body {
+  font:17px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  margin:18px 0 25px
+}
+  body>p,h2,header .date,p[class="footer"] {
+  margin:15px;
+  color:#6d6d72;
+  font-size:13px;
+  font-weight:400;
+  letter-spacing: 0.08px;
+}
+  ul {
+  margin:5px 0 25px;
+  padding:0;
+  list-style:none;
+  background:#fff;
+}
+ul:after,ul:before {
+  content:"";
+  display:block;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #c8c7cc;
+}
+@media (min-width:708px) {
+ul:after,ul:before {
+  display:none
+}
+}
+ul li {
+  border-bottom:0.5px solid #c8c7cc;
+  margin-left:15px;
+  padding:10px 15px 10px 0
+}
+ul li:last-child {
+  border-bottom:0;
+}
+ul .button,ul li [role="link"],ul li p {
+  padding:10px 15px;
+  margin:-10px -15px
+}
+ul .button+p,ul li [role="link"]+p,ul li p+p {
+  padding-top:0;
+  margin-top:0
+}
+ul .button,ul li [role="link"] {
+  display:block;
+  color:#007aff;
+  padding-right:30px;
+  position:relative;
+  z-index:2
+}
+ul .button:after,ul li [role="link"]:after {
+  content:"";
+  display:block;
+  background:url(https://matruka.me/chevron.png) 0 0/100% 100%;
+  position:absolute;
+  top:50%;
+  right:15px;
+  width:10px;
+  height:13px;
+  margin-top:-6.5px;
+}
+  .leftrepo {
+  position: relative;
+  right: 5px;
+}
+}
+  
+  
 </style>
