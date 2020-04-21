@@ -766,7 +766,14 @@ a.btn-matruka,a.btn-matruka:hover{
 	-ms-user-select: none;
 }
 .p-2{
-	cursor:grab;
+	cursor: grab;
+	cursor: -moz-grab;
+	cursor: -webkit-grab;
+}
+.p-2:active{
+	cursor: grabbing;
+	cursor: -moz-grabbing;
+	cursor: -webkit-grabbing;
 }
 @media (min-width:992px){
 	#slider-packages .slick-list::before{
