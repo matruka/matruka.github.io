@@ -695,25 +695,67 @@ a.btn-matruka,a.btn-matruka:hover{
 	margin-top:-3px
 }
 .btn-cydia{
-	background:#9a5941
+	background:#9a5941;
+	transition: all 0.2s ease 0s;
+}
+.btn-cydia:hover{
+	background:#9a5941;
+	box-shadow: 0px 5px 10px rgba(154, 89, 65, 0.5);
+	transform: translateY(-1px);
 }
 .btn-zebra{
-	background:#38434b
+	background:#38434b;
+	transition: all 0.2s ease 0s;
+}
+.btn-zebra:hover{
+	background:#38434b;
+	box-shadow: 0px 5px 10px rgba(56, 68, 75, 0.5);
+	transform: translateY(-1px);
 }
 .btn-installer{
-	background:#2293fb
+	background:#2293fb;
+	transition: all 0.2s ease 0s;
+}
+.btn-installer:hover{
+	background:#2293fb;
+	box-shadow: 0px 5px 10px rgba(35, 147, 251, 0.5);
+	transform: translateY(-1px);
 }
 .btn-sileo{
-	background:#12c0c0
+	background:#12c0c0;
+	transition: all 0.2s ease 0s;
+}
+.btn-sileo:hover{
+	background:#12c0c0;
+	box-shadow: 0px 5px 10px rgba(22, 192, 193, 0.5);
+	transform: translateY(-1px);
 }
 .btn-github{
-	background:#8999a6
+	background:#8999a6;
+	transition: all 0.2s ease 0s;
+}
+.btn-github:hover{
+	background:#8999a6;
+	box-shadow: 0px 5px 10px rgba(138, 154, 167, 0.5);
+	transform: translateY(-1px);
 }
 .btn-twitter{
-	background:#23a9fd
+	background:#23a9fd;
+	transition: all 0.2s ease 0s;
+}
+.btn-twitter:hover{
+	background:#23a9fd;
+	box-shadow: 0px 5px 10px rgba(36, 168, 252, 0.5);
+	transform: translateY(-1px);
 }
 .btn-donate{
-	background:#fe504f
+	background:#fe504f;
+	transition: all 0.2s ease 0s;
+}
+.btn-donate:hover{
+	background:#fe504f;
+	box-shadow: 0px 5px 10px rgba(254, 79, 78, 0.5);
+	transform: translateY(-1px);
 }
 .nodrag{
 	user-drag: none;
