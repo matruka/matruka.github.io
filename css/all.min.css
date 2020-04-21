@@ -765,6 +765,9 @@ a.btn-matruka,a.btn-matruka:hover{
 	-webkit-user-select: none;
 	-ms-user-select: none;
 }
+.p-2{
+	cursor:move;
+}
 @media (min-width:992px){
 	#slider-packages .slick-list::before{
 		content:"";
@@ -778,8 +781,8 @@ a.btn-matruka,a.btn-matruka:hover{
 		background:-webkit-linear-gradient(left,rgba(255,255,255,1) 0,rgba(255,255,255,0) 100%);
 		background:linear-gradient(to right,rgba(255,255,255,1) 0,rgba(255,255,255,0) 100%);
 		background-repeat:repeat-x;
-		z-index:999
-}
+		z-index:999;
+	}
 	#slider-packages .slick-list::after{
 		content:"";
 		display:block;
@@ -805,7 +808,7 @@ a.btn-matruka,a.btn-matruka:hover{
 	width:300px;
 	margin:auto;
 	position:relative;
-	bottom:auto
+	bottom:auto;
 }
 #slider-packages .slick-dots li img{
 	width:40px;
@@ -815,7 +818,12 @@ a.btn-matruka,a.btn-matruka:hover{
 	margin:2.5px;
 	width:40px;
 	height:40px;
-	opacity:.6
+	opacity:.6;
+	filter: grayscale(100%);
+}
+#slider-packages:hover .slick-dots:hover li:hover{
+	opacity:1;
+	filter: none;
 }
 @media (min-width:375px) and (max-width:1200px){
 	#slider-packages .slick-dots{
@@ -838,7 +846,8 @@ a.btn-matruka,a.btn-matruka:hover{
 }
 }
 #slider-packages .slick-dots li.slick-active{
-	opacity:1
+	opacity:1;
+	filter: none;
 }
 .handwrite{
 	font-family:'Nanum Pen Script',cursive;
