@@ -140,13 +140,13 @@ Package: com.matruka.skeuo-maintheme
 Section: skeuo13-maintheme
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Filename: /debians/com.matruka.skeuo-maintheme.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-maintheme.png
-Size: 473724
-MD5sum: 75038e9f34d66030d9294e65a484f2d5
-SHA1: 7dfadb0509e112dc8c59e8a6abf8ed550c4a2263
-SHA256: c4278c8bb610587402790a04b55f51013e08e33f41f6fd62c63e62dfca716445
+Size: 718450
+MD5sum: 904389528bd583d3e0b502a50192a6fb
+SHA1: cc77abd250743c6e5d24fcdfe33065118958e112
+SHA256: dd58de765eebad2b76320807e3c892cd1fdc112564a02cbdfb322d13c7e4a63c
 Description: Main theme for skeuo13 to use with Snowboard.
 Name: skeuo13 Main Theme
 Depends: firmware (>= 10.0)
@@ -157,13 +157,13 @@ Package: com.matruka.skeuo-alticons1
 Section: skeuo13-alticons1
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Filename: /debians/com.matruka.skeuo-alticons1.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-alticons1.png
-Size: 318330
-MD5sum: f94bb4c3b00af2aa20d571e537b7d808
-SHA1: 39d4dd374178a743e0dbccbbf3f1e632935d1545
-SHA256: 876f82b3601c3321bf202724e6f1693a2cb88a83e51961ad76ebc2e35958fdf9
+Size: 437996
+MD5sum: fa328ea818d10919c466b30b66b67141
+SHA1: 7f1a79544e3242db62b5a3635e01816ce506fa3d
+SHA256: dc58a32da4b3cd9a2cd147de470b0c31acc55b8c4e7f0a7a3699696cd3cbf173
 Description: Alternative Icons I for skeuo13 to use with Snowboard.
 Name: skeuo13 Alt Icons I
 Depends: firmware (>= 10.0)
@@ -174,13 +174,13 @@ Package: com.matruka.skeuo-alticons2
 Section: skeuo13-alticons2
 Maintainer: matruka <contact@matruka.me>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Filename: /debians/com.matruka.skeuo-alticons2.deb
 Icon: https://matruka.me/icons/com.matruka.skeuo-alticons2.png
-Size: 76460
-MD5sum: 31ffcda11b1cb6449a55b454fe44ed20
-SHA1: e39d600d105e60c3462257c0ba4842f116d47f3e
-SHA256: 11df76489fefe7b8063a91a9e6d4f8e22e0fa8f3b8470c70e2b9e7b7144ee49d
+Size: 114876
+MD5sum: b6ac4f33ce28c0e27c1ba02e037222fc
+SHA1: ea18e38f1f5caa67b693951bc6299d482222788a
+SHA256: 1981fa220842a726c04e3a80ed24e84a831f34684e7e11dceac9c7f07a10b26a
 Description: Alternative Icons II for skeuo13 to use with Snowboard.
 Name: skeuo13 Alt Icons II
 Depends: firmware (>= 10.0)
