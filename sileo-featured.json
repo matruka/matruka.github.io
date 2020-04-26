@@ -1,13 +1,1 @@
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/sukarodo/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "com.sukarodo.samplepackage",
-        "hideShadow": false
-    }
-  ]
-}
+{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":10,"banners":[{"title":"WeatherGround","package":"com.tr1fecta.weatherground","url":"https://cdn.chariz.com/sileo-banner/weatherground.jpg"},{"title":"Wonderbar","package":"dev.aryanjnambiar.wonderbar","url":"https://cdn.chariz.com/sileo-banner/wonderbar.jpg"},{"title":"Nougat","package":"com.shade.nougat","url":"https://cdn.chariz.com/sileo-banner/nougat.jpg"},{"title":"iDunnoU","package":"com.jacobcxdev.idunnou","url":"https://cdn.chariz.com/sileo-banner/idunnou.jpg"},{"title":"Veza","package":"com.apextweaks.veza","url":"https://cdn.chariz.com/sileo-banner/veza.jpg"},{"title":"Velox Reloaded","package":"com.apextweaks.veloxreloaded","url":"https://cdn.chariz.com/sileo-banner/velox-reloaded.jpg"},{"title":"Lyricify","package":"me.conorthedev.lyricify","url":"https://cdn.chariz.com/sileo-banner/lyricify.jpg"},{"title":"QuitAll","package":"com.daveapps.quitall","url":"https://cdn.chariz.com/sileo-banner/quitall.jpg"},{"title":"Noctis Neo","package":"com.laughingquoll.noctis13","url":"https://cdn.chariz.com/sileo-banner/noctis-neo.jpg"},{"title":"Watermelon","package":"com.laughingquoll.watermelon","url":"https://cdn.chariz.com/sileo-banner/watermelon.jpg"},{"title":"Siliqua Pro","package":"com.laughingquoll.siliquapro","url":"https://cdn.chariz.com/sileo-banner/siliqua-pro.jpg"}]}
