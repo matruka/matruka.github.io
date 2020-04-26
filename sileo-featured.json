@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[
       {
-         "title":"skeuo13 Main Theme",
-         "package":"com.matruka.skeuo-maintheme",
-         "url":"https://matruka.me/depictions/com.matruka.skeuo-maintheme/screenshots/screenshot01.jpg"
+         "title":"skeuo13 Repo",
+         "package":"com.matruka.skeuo-repo",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-repo/screenshots/screenshot01.jpg"
       },
       {
          "title":"skeuo13 Main Theme",
@@ -14,14 +14,55 @@
          "url":"https://matruka.me/depictions/com.matruka.skeuo-maintheme/screenshots/screenshot01.jpg"
       },
       {
-         "title":"skeuo13 Main Theme",
-         "package":"com.matruka.skeuo-maintheme",
-         "url":"https://matruka.me/depictions/com.matruka.skeuo-maintheme/screenshots/screenshot01.jpg"
+         "title":"skeuo13 Alt Icons 1",
+         "package":"com.matruka.skeuo-alticons1",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-alticons1/screenshots/screenshot01.jpg"
       },
+             {
+         "title":"skeuo13 Alt Icons 2",
+         "package":"com.matruka.skeuo-alticons2",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-alticons2/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Folders",
+         "package":"com.matruka.skeuo-folders",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-folders/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Badge",
+         "package":"com.matruka.skeuo-badge",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-badge/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Dock",
+         "package":"com.matruka.skeuo-dock",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-dock/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Page Dots",
+         "package":"com.matruka.skeuo-pagedots",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-pagedots/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Settings",
+         "package":"com.matruka.skeuo-settings",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-settings/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Analog Clock",
+         "package":"com.matruka.skeuo-analogclock",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-analogclock/screenshots/screenshot01.jpg"
+      },
+             {
+         "title":"skeuo13 Flip Clock",
+         "package":"com.matruka.skeuo-flipclock",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-flipclock/screenshots/screenshot01.jpg"
+      },
+       
       {
-         "title":"skeuo13 Main Theme",
-         "package":"com.matruka.skeuo-maintheme",
-         "url":"https://matruka.me/depictions/com.matruka.skeuo-maintheme/screenshots/screenshot01.jpg"
+         "title":"skeuo Original",
+         "package":"com.matruka.skeuo-original",
+         "url":"https://matruka.me/depictions/com.matruka.skeuo-original/screenshots/screenshot01.jpg"
       }
    ]
 }
